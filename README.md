@@ -1,7 +1,5 @@
 # Piano Python 🎹
-
-![image-20210723174228732](C:\Users\Gabri\AppData\Roaming\Typora\typora-user-images\image-20210723174228732.png)
-
+![image](https://user-images.githubusercontent.com/81251211/126839726-a55cab5c-271b-42f0-b947-551cc7e93ceb.png)
 
 
 **Este jogo foi criado para fixar conhecimentos adquiridos sobre as bibliotecas Tkinter e Pygame.**
